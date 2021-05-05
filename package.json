@@ -1,0 +1,19 @@
+{
+  "name": "sisisin-maze-3d",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hey-cube/sisisin-maze-3d.git"
+  },
+  "author": "hey_cube <tales.phan.x@gmail.com> (https://github.com/hey-cube)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hey-cube/sisisin-maze-3d/issues"
+  },
+  "homepage": "https://github.com/hey-cube/sisisin-maze-3d#readme"
+}
